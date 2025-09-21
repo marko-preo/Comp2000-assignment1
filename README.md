@@ -1,5 +1,6 @@
 # How to run
-- In VScode run the main method
+- Download the src file and open it in VScode
+- In VScode run the method called 'Main'
 
 # How to play
 ### Inputs
